@@ -53,6 +53,6 @@ def send_js(path):
 
 
 if __name__ == '__main__':
-    app.run(host='192.168.0.12', port=80)
+    app.run(host='192.168.0.10', port=80)
 
 
